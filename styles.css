@@ -1,0 +1,68 @@
+h1{
+  color:red;
+}
+.box{
+  height:400px;
+  width:600px;
+}
+.top-image{
+  height:500px;
+  position:absolute;
+  left:50px;
+  bottom:150px;
+}
+.bottom-image{
+  height:500px;
+  position:absolute;
+  top:270px;
+  left:650px;
+  right:100px;
+  bottom:350px;
+}
+.pattern-card{
+  height:70px;
+  width:190px;
+  left:46%;
+  top:34%;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+
+}
+.box1{
+  height:400px;
+  width:700px;
+  background-color: #19a1ad;
+  margin:100px 300px 150px 300px;
+  position: absolute;
+
+}
+.box3{
+
+  height:230px;
+  width:190px;
+  background-color: white;
+  top:200px;
+  left:46%;
+  border-radius: 20px;
+  position:absolute;
+}
+.victor-image{
+  top:220px;
+  left:50%;
+    position:absolute;
+}
+.box6{
+  top:300px;
+  left:51%;
+    position:absolute;
+    font-family:sans-serif;
+    font-size: 10px;
+}
+hr{
+  width: 250%;
+  border-style: inset none none none;
+  left:45%;
+
+
+
+}
